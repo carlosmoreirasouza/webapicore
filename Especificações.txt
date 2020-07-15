@@ -1,0 +1,7 @@
+Todo o projeto foi desenvolvido de forma academica
+o banco de dados é um mysql publico, 
+foi gerado um migration através do EF
+a web api é .net core 3.1
+e o front é react + redux
+
+desenvolvido por Carlos Henrique Moreira de Souza
